@@ -8,8 +8,8 @@
         Title="Главная" Height="300" Width="500" WindowStartupLocation="CenterScreen">
     <Grid>
         <Label Content="Вариант 9" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="472" FontSize="20" HorizontalContentAlignment="Center"/>
-        <Button x:Name="ex1btn" Content="Задание 1" HorizontalAlignment="Left" Margin="40,84,0,0" VerticalAlignment="Top" Width="127" Height="42"/>
-        <Button x:Name="ex2btn" Content="Задание 2" HorizontalAlignment="Left" Margin="185,84,0,0" VerticalAlignment="Top" Width="127" Height="42"/>
+        <Button x:Name="ex1btn" Content="Задание 1" HorizontalAlignment="Left" Margin="40,84,0,0" VerticalAlignment="Top" Width="127" Height="42" Click="Ex1btn_Click"/>
+        <Button x:Name="ex2btn" Content="Задание 2" HorizontalAlignment="Left" Margin="185,84,0,0" VerticalAlignment="Top" Width="127" Height="42" Click="Ex2btn_Click"/>
         <Button x:Name="ex3btn" Content="Задание 3" HorizontalAlignment="Left" Margin="328,84,0,0" VerticalAlignment="Top" Width="127" Height="42" Click="Ex3btn_Click"/>
         <Button x:Name="ex4btn" Content="Задание 4" HorizontalAlignment="Left" Margin="111,165,0,0" VerticalAlignment="Top" Width="127" Height="42" Click="Ex4btn_Click"/>
         <Button x:Name="ex5btn" Content="Задание 5" HorizontalAlignment="Left" Margin="252,165,0,0" VerticalAlignment="Top" Width="127" Height="42"/>

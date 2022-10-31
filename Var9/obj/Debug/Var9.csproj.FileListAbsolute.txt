@@ -17,3 +17,7 @@ C:\Users\WASD\Desktop\Var9\Var9\obj\Debug\Var9.exe
 C:\Users\WASD\Desktop\Var9\Var9\obj\Debug\Var9.pdb
 C:\Users\WASD\Desktop\Var9\Var9\obj\Debug\ex4window.g.cs
 C:\Users\WASD\Desktop\Var9\Var9\obj\Debug\ex4window.baml
+C:\Users\WASD\Desktop\Var9\Var9\obj\Debug\ex1window.g.cs
+C:\Users\WASD\Desktop\Var9\Var9\obj\Debug\ex2window.g.cs
+C:\Users\WASD\Desktop\Var9\Var9\obj\Debug\ex1window.baml
+C:\Users\WASD\Desktop\Var9\Var9\obj\Debug\ex2window.baml

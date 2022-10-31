@@ -40,5 +40,21 @@ namespace Var9
             ex4.ShowDialog();
             this.Close();
         }
-    }
+
+        private void Ex1btn_Click(object sender, RoutedEventArgs e)
+        {
+            ex1window ex1 = new ex1window();
+            this.Hide();
+            ex1.Show();
+            this.Close();
+        }
+
+        private void Ex2btn_Click(object sender, RoutedEventArgs e)
+        {
+            ex2window ex2 = new ex2window();
+            this.Hide();
+            ex2.ShowDialog();
+            this.Close();
+        }
+    }   
 }
